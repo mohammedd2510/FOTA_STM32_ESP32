@@ -1,0 +1,15 @@
+../MCAL/FPEC/FPEC_program.c:37:13:FLASH_UNLOCK	4	static
+../MCAL/FPEC/FPEC_program.c:42:13:FLASH_LOCK	8	static
+../MCAL/FPEC/FPEC_program.c:47:13:OB_UNLOCK	4	static
+../MCAL/FPEC/FPEC_program.c:52:13:OB_LOCK	8	static
+../MCAL/FPEC/FPEC_program.c:57:13:OB_LAUNCH	8	static
+../MCAL/FPEC/FPEC_program.c:62:13:ERASE_SECTOR	16	static
+../MCAL/FPEC/FPEC_program.c:73:13:WAIT_END_OF_OPERATION	4	static
+../MCAL/FPEC/FPEC_program.c:78:13:FLASH_PROGRAM_BYTE	16	static
+../MCAL/FPEC/FPEC_program.c:85:13:FLASH_PROGRAM_HALFWORD	16	static
+../MCAL/FPEC/FPEC_program.c:92:13:FLASH_PROGRAM_WORD	16	static
+../MCAL/FPEC/FPEC_program.c:103:6:FPEC_MassErase	8	static
+../MCAL/FPEC/FPEC_program.c:114:6:FPEC_EraseSectors	16	static
+../MCAL/FPEC/FPEC_program.c:124:6:FPEC_OBGetConfig	16	static
+../MCAL/FPEC/FPEC_program.c:137:6:FPEC_OBProgram	16	static
+../MCAL/FPEC/FPEC_program.c:160:6:FPEC_FLASH_Program_Bytes	32	static

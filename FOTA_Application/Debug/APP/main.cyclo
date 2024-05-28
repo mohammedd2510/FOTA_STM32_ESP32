@@ -1,0 +1,6 @@
+../APP/main.c:43:6:IR_CALLBACK	5
+../APP/main.c:72:6:InitTask	1
+../APP/main.c:98:6:TFT_Task	6
+../APP/main.c:163:6:DAC_Task	5
+../APP/main.c:195:6:RGBTimerCallback	2
+../APP/main.c:215:5:main	1

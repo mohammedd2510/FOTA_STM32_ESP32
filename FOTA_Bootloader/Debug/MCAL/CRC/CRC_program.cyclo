@@ -1,0 +1,2 @@
+../MCAL/CRC/CRC_program.c:42:6:CRC_voidInit	1
+../MCAL/CRC/CRC_program.c:46:5:CRC_Accumulate	2

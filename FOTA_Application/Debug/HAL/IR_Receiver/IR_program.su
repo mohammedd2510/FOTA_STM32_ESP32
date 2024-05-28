@@ -1,0 +1,4 @@
+../HAL/IR_Receiver/IR_program.c:42:6:IR_voidInit	24	static
+../HAL/IR_Receiver/IR_program.c:69:4:IR_u8GetReceivedStatus	16	static
+../HAL/IR_Receiver/IR_program.c:79:6:IR_u32GetReceivedData	4	static
+../HAL/IR_Receiver/IR_program.c:84:13:IR_EXTI_Handler	16	static

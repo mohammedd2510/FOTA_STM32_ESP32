@@ -1,0 +1,14 @@
+../MCAL/UART/UART_program.c:50:13:UART_ClockEnable	4
+../MCAL/UART/UART_program.c:65:13:UART_voidGPIOConfig	4
+../MCAL/UART/UART_program.c:93:13:UART_SetBaudRate	4
+../MCAL/UART/UART_program.c:120:13:UART_TC_INT_Init	4
+../MCAL/UART/UART_program.c:141:13:UART_RXNE_INT_Init	4
+../MCAL/UART/UART_program.c:163:13:USART_Timeout_Handler	1
+../MCAL/UART/UART_program.c:172:6:UART_voidInit	3
+../MCAL/UART/UART_program.c:205:16:UART_TransmitByte	4
+../MCAL/UART/UART_program.c:224:16:UART_voidTransmit	5
+../MCAL/UART/UART_program.c:245:16:UART_ReceiveByte	4
+../MCAL/UART/UART_program.c:264:16:UART_voidReceive	5
+../MCAL/UART/UART_program.c:287:6:USART1_IRQHandler	5
+../MCAL/UART/UART_program.c:308:6:USART2_IRQHandler	5
+../MCAL/UART/UART_program.c:327:6:USART6_IRQHandler	5

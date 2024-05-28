@@ -1,0 +1,2 @@
+../MCAL/SCB/SCB_program.c:57:6:MSCB_voidSetPriorityGrouping	16	static
+../MCAL/SCB/SCB_program.c:87:5:MSCB_u32GetPriorityGrouping	16	static

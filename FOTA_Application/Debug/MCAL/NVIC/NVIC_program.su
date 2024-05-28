@@ -1,0 +1,10 @@
+../MCAL/NVIC/NVIC_program.c:41:6:MNVIC_voidInit	8	static
+../MCAL/NVIC/NVIC_program.c:46:6:MNVIC_voidEnableIRQ	16	static
+../MCAL/NVIC/NVIC_program.c:54:6:MNVIC_voidDisableIRQ	16	static
+../MCAL/NVIC/NVIC_program.c:62:6:MNVIC_voidPeripheralInterruptControl	16	static
+../MCAL/NVIC/NVIC_program.c:76:6:MNVIC_voidSetPendingIRQ	16	static
+../MCAL/NVIC/NVIC_program.c:86:6:MNVIC_voidClearPendingIRQ	16	static
+../MCAL/NVIC/NVIC_program.c:95:5:MNVIC_u32GetActiveIRQ	16	static
+../MCAL/NVIC/NVIC_program.c:104:6:MNVIC_voidSetPriority	16	static
+../MCAL/NVIC/NVIC_program.c:117:5:MNVIC_u32GetPriority	16	static
+../MCAL/NVIC/NVIC_program.c:130:6:MNVIC_voidGenerateSGI	16	static

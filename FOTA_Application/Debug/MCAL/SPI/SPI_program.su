@@ -1,0 +1,16 @@
+../MCAL/SPI/SPI_program.c:67:13:MSPI_GPIOInit	16	static
+../MCAL/SPI/SPI_program.c:158:13:SPI_Timeout_Handler	4	static
+../MCAL/SPI/SPI_program.c:164:13:MSPIx_voidClockEnable	16	static
+../MCAL/SPI/SPI_program.c:180:6:MSPI_voidInit	16	static
+../MCAL/SPI/SPI_program.c:241:16:MSPI_TransmitByte	32	static
+../MCAL/SPI/SPI_program.c:260:16:MSPI_ReceiveByte	32	static
+../MCAL/SPI/SPI_program.c:278:16:MSPI_TransmitReceiveByte	32	static
+../MCAL/SPI/SPI_program.c:297:16:MSPI_Transmit	32	static
+../MCAL/SPI/SPI_program.c:318:16:MSPI_Receive	32	static
+../MCAL/SPI/SPI_program.c:339:16:MSPI_TransmitReceive	32	static
+../MCAL/SPI/SPI_program.c:361:6:MSPI_DMA_Transmit	24	static
+../MCAL/SPI/SPI_program.c:367:6:MSPI_DMA_Receive	24	static
+../MCAL/SPI/SPI_program.c:373:6:MSPI_DMA_TransmitReceive	24	static
+../MCAL/SPI/SPI_program.c:383:6:SPI1_IRQHandler	4	static
+../MCAL/SPI/SPI_program.c:405:6:SPI2_IRQHandler	4	static
+../MCAL/SPI/SPI_program.c:427:6:SPI3_IRQHandler	4	static

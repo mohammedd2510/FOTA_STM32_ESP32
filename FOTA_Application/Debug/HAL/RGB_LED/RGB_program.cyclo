@@ -1,0 +1,6 @@
+../HAL/RGB_LED/RGB_program.c:37:13:RGB_init_led	5
+../HAL/RGB_LED/RGB_program.c:61:6:RGB_voidInit	1
+../HAL/RGB_LED/RGB_program.c:67:6:RGB_voidSetColor	1
+../HAL/RGB_LED/RGB_program.c:76:6:RGB_voidLedOn	5
+../HAL/RGB_LED/RGB_program.c:94:6:RGB_voidLedOff	5
+../HAL/RGB_LED/RGB_program.c:112:6:RGB_voidLedToggle	11

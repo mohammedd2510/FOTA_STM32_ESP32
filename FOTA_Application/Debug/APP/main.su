@@ -1,0 +1,6 @@
+../APP/main.c:43:6:IR_CALLBACK	32	static
+../APP/main.c:72:6:InitTask	24	static
+../APP/main.c:98:6:TFT_Task	40	static
+../APP/main.c:163:6:DAC_Task	32	static
+../APP/main.c:195:6:RGBTimerCallback	24	static
+../APP/main.c:215:5:main	16	static

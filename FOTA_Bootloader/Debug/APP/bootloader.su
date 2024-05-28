@@ -1,0 +1,13 @@
+../APP/bootloader.c:50:13:Bootloader_Send_ACK	24	static
+../APP/bootloader.c:57:13:Bootloader_Send_NACK	16	static
+../APP/bootloader.c:62:11:Bootloader_CRC_Verify	40	static
+../APP/bootloader.c:87:11:CBL_STM32F401CCx_Get_RDP_Level	24	static
+../APP/bootloader.c:96:13:Bootloader_Send_Data_To_Host	16	static
+../APP/bootloader.c:100:11:Host_Address_Verification	24	static
+../APP/bootloader.c:113:13:Bootloader_Get_Version	32	static
+../APP/bootloader.c:134:13:Bootloader_Get_Chip_Identification_Number	32	static
+../APP/bootloader.c:155:13:Bootloader_Read_Protection_Level	32	static
+../APP/bootloader.c:179:13:Bootloader_Erase_Application	32	static
+../APP/bootloader.c:201:13:Bootloader_Flash_Application	32	static
+../APP/bootloader.c:240:13:Bootloader_Jump_To_Application	40	static
+../APP/bootloader.c:280:11:BL_UART_Fetch_Host_Command	16	static
